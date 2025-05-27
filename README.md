@@ -46,15 +46,21 @@ This repository helps me keep track of projects where I dive into datasets, clea
 
 ---
 
+Sure! Here's a clean, well-structured version of your markdown:
+
+---
+
 ## 🧭 How to Use
 
-1. Clone the repository:  
+1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/Khizar246/Analysis_Projects.git
-````
+   ```
 
-2. Open a project folder and launch any `.ipynb` notebook
-3. Run the code, tweak visuals, and explore the insights!
+2. **Navigate to any project folder** and open a `.ipynb` notebook.
+
+3. **Run the code**, tweak the visuals, and explore the insights!
 
 ---
 
@@ -62,13 +68,14 @@ This repository helps me keep track of projects where I dive into datasets, clea
 
 Have feedback, ideas, or want to collaborate?
 
-📧 Email: [khizerstudy75@gmail.com](mailto:khizerstudy75@gmail.com)
-🌐 Portfolio: [My Website](https://khizar246.github.io/Khizar-Portfolio.github.io/#)
+* 📧 **Email:** [khizerstudy75@gmail.com](mailto:khizerstudy75@gmail.com)
+* 🌐 **Portfolio:** [My Website](https://khizar246.github.io/Khizar-Portfolio.github.io/#)
 
 ---
 
 ## ⭐ Support This Repo
 
-If you find any of these projects insightful, consider **starring** this repo and sharing it with fellow data enthusiasts. 😊
+If you find any of these projects insightful, consider giving the repo a **⭐ star** and sharing it with fellow data enthusiasts. 😊
 
 ---
+
